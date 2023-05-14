@@ -7,7 +7,7 @@ Home Screen: The home screen displays the current weather for the user's current
 Search Screen: The search screen allows the user to search for locations by name, city, state, or country. The search results are displayed in a list, and the user can tap on a search result to see the detail screen for that location.
 
 Detail Screen: The detail screen displays the current weather and forecast for a selected location. The user can also add the location to their favorites list from this screen.
-# Instructions forrunning the app
+# Instructions for running the app
 Open your IDE and navigate to the directory where your HTML file is located.
 
 Find the HTML file you want to preview, right-click on it, and select "Open with Live Server" or "Preview in Browser", depending on the features supported by your IDE.
